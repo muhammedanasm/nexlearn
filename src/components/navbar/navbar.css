@@ -1,0 +1,14 @@
+.Navbar {
+  border-bottom: 1.43px solid #e9ebec;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+.logout {
+  background-color: #177a9c;
+}
+.logout:hover {
+  background: #1c3141;
+}

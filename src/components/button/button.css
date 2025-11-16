@@ -1,0 +1,14 @@
+.common-btn {
+  padding: 10px 20px;
+  /* background-color: #007bff; */
+  border-radius: 8px;
+  color: white;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.common-btn:hover {
+  background-color: #1c3141;
+}
